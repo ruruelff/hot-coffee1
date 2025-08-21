@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"hot-coffee/internal/config"
-	"hot-coffee/internal/handler"
+	"hot-coffee1/internal/config"
+	"hot-coffee1/internal/handler"
 	"log"
 	"net/http"
 )

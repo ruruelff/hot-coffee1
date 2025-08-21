@@ -1,6 +1,6 @@
 package repositories
 
-import "hot-coffee/models"
+import "hot-coffee1/models"
 
 type InventoryRepository interface {
 	ReadInventory() ([]models.InventoryItem, error)

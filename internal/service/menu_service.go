@@ -3,8 +3,8 @@ package service
 import (
 	"errors"
 	"fmt"
-	"hot-coffee/internal/dal"
-	"hot-coffee/models"
+	"hot-coffee1/internal/dal"
+	"hot-coffee1/models"
 )
 
 type Menu struct {

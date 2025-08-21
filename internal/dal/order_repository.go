@@ -3,12 +3,12 @@ package dal
 import (
 	"encoding/json"
 	"errors"
-	"hot-coffee/internal/config"
-	"hot-coffee/models"
+	"hot-coffee1/internal/config"
+	"hot-coffee1/models"
 	"os"
 	"path/filepath"
 
-	repositories "hot-coffee/internal/dal/utils"
+	repositories "hot-coffee1/internal/dal/utils"
 )
 
 type orderRepo struct{}
